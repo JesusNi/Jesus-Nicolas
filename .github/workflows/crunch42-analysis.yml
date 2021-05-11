@@ -34,7 +34,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: 42Crunch REST API Static Security Testing
+      - name: Jesus Nicolas Sirios REST API Static Security Testing
         uses: 42Crunch/api-security-audit-action@v1
         with:
           # Please create free account at https://platform.42crunch.com/register
